@@ -5,6 +5,8 @@ DATA
 # DATA/*
 # !DATA/DNA_FISH
 # !DATA/prepare_dataset.ipynb
+# DNA_FISH
+
 
 __pycache__/
 utils/__pycache__
